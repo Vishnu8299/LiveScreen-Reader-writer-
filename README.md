@@ -17,7 +17,7 @@ This project uses the following technologies:
 - Extract text from the selected screen region using Tesseract OCR
 - Save the extracted text as a `.txt` file with a timestamped filename
 
-## Prerequisites
+## Prerequisite
 
 Before running the application, you need the following installed on your system:
 
